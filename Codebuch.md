@@ -17,9 +17,9 @@ from: initiierender Knoten, in diesem Fall: Film mit Verbindung zu allen Mitwirk
 
 to: erhaltender Knoten, in diesem Fall: mitwirkende Personen, wie beispielsweise die Schauspieler:innen, Produzent:innen etc. 
 
-weight: Rankingplazierung aufgrund des Kritiker-Rankings bzw. der Box Office Einnahmen
+weight: Rankingplatzierung aufgrund des Kritiker-Rankings bzw. der Box Office Einnahmen
 20 = beste Platzierung (erste Nennung in den Rankings),
-1 = schlechteste Plazierung (letzte Nennung in den Rankings)
+1 = schlechteste Platzierung (letzte Nennung in den Rankings)
 
 ## Node-Attribute
 
