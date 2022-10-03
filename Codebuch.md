@@ -28,14 +28,14 @@ Eindeutige Benennung nach Buchstabenkürzel aus Vor- und Nachname plus Kürzel n
 ### name:
 Vor- und Nachname des Akteur:innen, Titel des Films, Name der Produktions- bzw. der Distributionsfirma. 
 ### type:	
-movie
-director
-producer
-screenplay
-actor 
-composer
-production_company
-distribution_company 
+movie,
+director,
+producer,
+screenplay,
+actor,
+composer,
+production_company,
+distribution_company,
 ### sex:
 0 = non-binary
 1 = male
